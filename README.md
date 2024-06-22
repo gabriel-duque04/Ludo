@@ -1,1 +1,1 @@
-![Thumbnail do Repositório](assets/thumbnail.png)
+![Thumbnail do Repositório](assets/ludo img.jpg)
